@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Techinjecrassignment1/static/css/main.6b0a92ac.css",
+    "main.js": "/Techinjecrassignment1/static/js/main.3153972d.js",
+    "static/media/comp5it3.png": "/Techinjecrassignment1/static/media/comp5it3.a6b69783f646442300cd.png",
+    "static/media/latestnews2.png": "/Techinjecrassignment1/static/media/latestnews2.db888c699fd808c5955c.png",
+    "static/media/1.png": "/Techinjecrassignment1/static/media/1.c9726e5e246d76758db2.png",
+    "static/media/latestnews3.png": "/Techinjecrassignment1/static/media/latestnews3.4e5424b11e5b2b1cc3e7.png",
+    "static/media/logo.png": "/Techinjecrassignment1/static/media/logo.a646e6906c92c9edea03.png",
+    "static/media/latestnews1.png": "/Techinjecrassignment1/static/media/latestnews1.fd6359c59579bdfd1b27.png",
+    "static/media/ourproduct1.png": "/Techinjecrassignment1/static/media/ourproduct1.88504fcf72e7165cb344.png",
+    "static/media/comp5it2b.png": "/Techinjecrassignment1/static/media/comp5it2b.f1c9dfd2b954037e19a0.png",
+    "static/media/comp5it2a.png": "/Techinjecrassignment1/static/media/comp5it2a.054d105ab15af0547c60.png",
+    "static/media/deal2.png": "/Techinjecrassignment1/static/media/deal2.323ee79d229b1397d5be.png",
+    "static/media/deal3.png": "/Techinjecrassignment1/static/media/deal3.c43e53d013a977770ff7.png",
+    "static/media/deal4.png": "/Techinjecrassignment1/static/media/deal4.4d20d1994ba306163f76.png",
+    "static/media/ourproduct3.png": "/Techinjecrassignment1/static/media/ourproduct3.74e573ef915295807b03.png",
+    "static/media/deal1.png": "/Techinjecrassignment1/static/media/deal1.88874ac9c8d565695e32.png",
+    "static/media/ourproduct4.png": "/Techinjecrassignment1/static/media/ourproduct4.012f24c0d01ac4d71f33.png",
+    "static/media/ourproduct2.png": "/Techinjecrassignment1/static/media/ourproduct2.babed71238d12f1acef6.png",
+    "static/media/search.png": "/Techinjecrassignment1/static/media/search.498a808b30cb38313d13.png",
+    "static/media/bag.png": "/Techinjecrassignment1/static/media/bag.96c73cb49987ccdf1154.png",
+    "index.html": "/Techinjecrassignment1/index.html",
+    "main.6b0a92ac.css.map": "/Techinjecrassignment1/static/css/main.6b0a92ac.css.map",
+    "main.3153972d.js.map": "/Techinjecrassignment1/static/js/main.3153972d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0a92ac.css",
+    "static/js/main.3153972d.js"
+  ]
+}
